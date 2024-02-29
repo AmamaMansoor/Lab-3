@@ -7,3 +7,4 @@ cout<<"roll number:020"<<endl;
 cout<<"sum of two numbers:<<"a+b"<<endl;
 cout<<"subtraction of two numbers:<<a-b"<<endl;
 cout<<"product of two numbers:<<"a*b"<<endl;
+cout<<"division of two numbers:<<a/b"<<endl;
